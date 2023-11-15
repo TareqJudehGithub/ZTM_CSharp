@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\bin\Debug\net6.0\CategoryOfHeight.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\bin\Debug\net6.0\CategoryOfHeight.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\bin\Debug\net6.0\CategoryOfHeight.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\bin\Debug\net6.0\CategoryOfHeight.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\bin\Debug\net6.0\CategoryOfHeight.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\refint\CategoryOfHeight.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\CategoryOfHeight.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\CategoryOfHeight\obj\Debug\net6.0\ref\CategoryOfHeight.dll

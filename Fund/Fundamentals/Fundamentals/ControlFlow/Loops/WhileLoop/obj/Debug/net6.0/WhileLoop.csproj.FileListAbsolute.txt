@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\bin\Debug\net6.0\WhileLoop.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\bin\Debug\net6.0\WhileLoop.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\bin\Debug\net6.0\WhileLoop.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\bin\Debug\net6.0\WhileLoop.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\bin\Debug\net6.0\WhileLoop.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\refint\WhileLoop.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\WhileLoop.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\WhileLoop\obj\Debug\net6.0\ref\WhileLoop.dll

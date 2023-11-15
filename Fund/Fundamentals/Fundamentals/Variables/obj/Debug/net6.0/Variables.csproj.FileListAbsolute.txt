@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\bin\Debug\net6.0\Variables.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\bin\Debug\net6.0\Variables.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\bin\Debug\net6.0\Variables.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\bin\Debug\net6.0\Variables.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\refint\Variables.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Variables\obj\Debug\net6.0\ref\Variables.dll

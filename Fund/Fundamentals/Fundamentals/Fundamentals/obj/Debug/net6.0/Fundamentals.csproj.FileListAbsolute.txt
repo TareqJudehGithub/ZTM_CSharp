@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\bin\Debug\net6.0\Fundamentals.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\bin\Debug\net6.0\Fundamentals.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\bin\Debug\net6.0\Fundamentals.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\bin\Debug\net6.0\Fundamentals.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\bin\Debug\net6.0\Fundamentals.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\refint\Fundamentals.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\Fundamentals.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Fundamentals\obj\Debug\net6.0\ref\Fundamentals.dll

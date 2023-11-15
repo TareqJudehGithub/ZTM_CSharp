@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\bin\Debug\net6.0\BankPresentation.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\bin\Debug\net6.0\BankPresentation.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\bin\Debug\net6.0\BankPresentation.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\bin\Debug\net6.0\BankPresentation.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\bin\Debug\net6.0\BankPresentation.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\refint\BankPresentation.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\BankPresentation.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\BankPresentation\BankPresentation\obj\Debug\net6.0\ref\BankPresentation.dll

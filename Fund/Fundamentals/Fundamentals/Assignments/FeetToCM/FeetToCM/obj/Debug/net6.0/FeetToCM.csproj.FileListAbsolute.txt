@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\bin\Debug\net6.0\FeetToCM.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\bin\Debug\net6.0\FeetToCM.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\bin\Debug\net6.0\FeetToCM.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\bin\Debug\net6.0\FeetToCM.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\bin\Debug\net6.0\FeetToCM.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\refint\FeetToCM.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\FeetToCM.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\FeetToCM\FeetToCM\obj\Debug\net6.0\ref\FeetToCM.dll

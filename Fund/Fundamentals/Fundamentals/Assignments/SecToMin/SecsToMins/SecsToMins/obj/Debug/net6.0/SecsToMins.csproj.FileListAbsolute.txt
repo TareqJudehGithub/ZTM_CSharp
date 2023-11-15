@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\bin\Debug\net6.0\SecsToMins.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\bin\Debug\net6.0\SecsToMins.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\bin\Debug\net6.0\SecsToMins.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\bin\Debug\net6.0\SecsToMins.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\bin\Debug\net6.0\SecsToMins.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\refint\SecsToMins.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\SecsToMins.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Assignments\SecToMin\SecsToMins\SecsToMins\obj\Debug\net6.0\ref\SecsToMins.dll

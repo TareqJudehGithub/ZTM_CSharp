@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\bin\Debug\net6.0\DataTypes.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\bin\Debug\net6.0\DataTypes.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\bin\Debug\net6.0\DataTypes.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\bin\Debug\net6.0\DataTypes.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\bin\Debug\net6.0\DataTypes.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\refint\DataTypes.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll

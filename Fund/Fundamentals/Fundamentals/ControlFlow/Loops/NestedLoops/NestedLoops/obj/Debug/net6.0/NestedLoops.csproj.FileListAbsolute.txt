@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\bin\Debug\net6.0\NestedLoops.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\bin\Debug\net6.0\NestedLoops.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\bin\Debug\net6.0\NestedLoops.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\bin\Debug\net6.0\NestedLoops.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\bin\Debug\net6.0\NestedLoops.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\refint\NestedLoops.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\NestedLoops.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\Loops\NestedLoops\NestedLoops\obj\Debug\net6.0\ref\NestedLoops.dll

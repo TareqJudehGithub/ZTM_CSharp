@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\bin\Debug\net6.0\LargestOfThree.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\bin\Debug\net6.0\LargestOfThree.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\bin\Debug\net6.0\LargestOfThree.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\bin\Debug\net6.0\LargestOfThree.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\bin\Debug\net6.0\LargestOfThree.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\refint\LargestOfThree.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\LargestOfThree.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\ControlFlow\IfElse\LargestOfThree\obj\Debug\net6.0\ref\LargestOfThree.dll

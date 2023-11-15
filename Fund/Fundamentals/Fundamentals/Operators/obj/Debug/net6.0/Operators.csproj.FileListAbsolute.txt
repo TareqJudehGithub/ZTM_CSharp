@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\bin\Debug\net6.0\Operators.exe
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\bin\Debug\net6.0\Operators.deps.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\bin\Debug\net6.0\Operators.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\bin\Debug\net6.0\Operators.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\bin\Debug\net6.0\Operators.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\refint\Operators.dll
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.pdb
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\Operators.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\Fundamentals\Fundamentals\Operators\obj\Debug\net6.0\ref\Operators.dll
