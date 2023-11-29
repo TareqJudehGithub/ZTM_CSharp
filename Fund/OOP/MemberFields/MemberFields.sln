@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemberFields", "MemberFields\MemberFields.csproj", "{A42F76E8-3D96-4F8D-B3C9-978D7077AB17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee", "Employee\Employee.csproj", "{F2AD8952-CAD7-4DE6-82DF-326B406AF533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A42F76E8-3D96-4F8D-B3C9-978D7077AB17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A42F76E8-3D96-4F8D-B3C9-978D7077AB17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A42F76E8-3D96-4F8D-B3C9-978D7077AB17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A42F76E8-3D96-4F8D-B3C9-978D7077AB17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2AD8952-CAD7-4DE6-82DF-326B406AF533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2AD8952-CAD7-4DE6-82DF-326B406AF533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2AD8952-CAD7-4DE6-82DF-326B406AF533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2AD8952-CAD7-4DE6-82DF-326B406AF533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD7C6CBB-ACBC-4F8E-B6C0-4421FF549753}
+	EndGlobalSection
+EndGlobal
