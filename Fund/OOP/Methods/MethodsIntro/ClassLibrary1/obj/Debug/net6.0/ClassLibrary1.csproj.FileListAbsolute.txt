@@ -1,0 +1,12 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\bin\Debug\net6.0\ClassLibrary1.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\refint\ClassLibrary1.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ClassLibrary1.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsIntro\ClassLibrary1\obj\Debug\net6.0\ref\ClassLibrary1.dll
