@@ -1,0 +1,4 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Fields\Fields\Fields\obj\Debug\net6.0\Fields.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Fields\Fields\Fields\obj\Debug\net6.0\Fields.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Fields\Fields\Fields\obj\Debug\net6.0\Fields.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Fields\Fields\Fields\obj\Debug\net6.0\Fields.csproj.CoreCompileInputs.cache

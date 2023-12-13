@@ -1,0 +1,14 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\bin\Debug\net6.0\OOP.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\bin\Debug\net6.0\OOP.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\bin\Debug\net6.0\OOP.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\bin\Debug\net6.0\OOP.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\bin\Debug\net6.0\OOP.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\refint\OOP.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\OOP.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\OOP\OOP\obj\Debug\net6.0\ref\OOP.dll

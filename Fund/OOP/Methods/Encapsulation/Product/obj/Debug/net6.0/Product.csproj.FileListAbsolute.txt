@@ -1,0 +1,12 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\bin\Debug\net6.0\Product.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\bin\Debug\net6.0\Product.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\bin\Debug\net6.0\Product.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\refint\Product.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\Product.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Encapsulation\Product\obj\Debug\net6.0\ref\Product.dll

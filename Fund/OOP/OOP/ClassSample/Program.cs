@@ -16,6 +16,10 @@ namespace ClassSample
             c1 = new Customer();
             c2 = new Customer();
 
+            int customer1ID = c1.customerID = 1;
+
+            Console.WriteLine(customer1ID);
+
         }
     }
 }
