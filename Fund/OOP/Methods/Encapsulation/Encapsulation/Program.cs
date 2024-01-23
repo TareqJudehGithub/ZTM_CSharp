@@ -6,13 +6,18 @@
         {
             Console.WriteLine("Encapsulation\n");
 
-            // Objects
-            int prodsTotal = Product.TotalNoProducts;
+            // Objects           
 
             Product productA = new Product();
-            prodsTotal++;
+            Product.SetTotalNoProducts(Product.GetTotalNoProducts() + 1);
+
             Product productB = new Product();
-            prodsTotal++;
+            Product.SetTotalNoProducts(Product.GetTotalNoProducts() + 1);
+
+            Product productC = new Product();
+            Product.SetTotalNoProducts(Product.GetTotalNoProducts() + 1);
+
+            int productTotal = Product.GetTotalNoProducts();
 
             // Product A
             productA.SetProductID(1001);
@@ -24,8 +29,10 @@
             productA.SetCost(235.245D);
             double prodACost = productA.GetCost();
 
-            productA.CalculateTax();
+            productA.CalculateTax(cost: prodACost);
+            productA.CalculateTax(cost: prodACost, percentage: 10);
             double prodAtaxAmount = productA.GetTax();
+
 
             productA.SetQuantityInStock(245);
             int prodAQuantity = productA.GetQuantityInStock();
@@ -43,11 +50,17 @@
             productB.SetCost(587.345D);
             double prodBCost = productB.GetCost();
 
-            productB.CalculateTax();
+            productB.CalculateTax(cost: prodBCost);
+            productB.CalculateTax(cost: prodBCost, percentage: 15);
             double prodBtaxAmount = productB.GetTax();
 
             productB.SetQuantityInStock(1257);
             int prodBQuantity = productB.GetQuantityInStock();
+
+            productC.SetQuantityInStock(475);
+            int prodCQuantity = productC.GetQuantityInStock();
+            // Total of products in stock
+            int TotalInStock = Product.GetTotalQuantity(product1: productA, product2: productB, product3: productC);
 
             string prodBCat = productB.GetCategoryName();
 
@@ -74,8 +87,8 @@
             Console.WriteLine($"Product Category: {prodBCat}");
             Console.WriteLine($"Product Date of Purchase: {prodBDate}\n");
 
-            Console.WriteLine($"Product Total: {prodsTotal++}");
-
+            Console.WriteLine($"Total amount in stock for all products: {TotalInStock}");
+            Console.WriteLine($"Product Total: {productTotal}");
         }
     }
 }

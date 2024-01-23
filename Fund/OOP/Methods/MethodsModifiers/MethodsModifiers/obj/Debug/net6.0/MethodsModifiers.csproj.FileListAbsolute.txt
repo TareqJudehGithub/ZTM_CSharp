@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\bin\Debug\net6.0\MethodsModifiers.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\bin\Debug\net6.0\MethodsModifiers.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\bin\Debug\net6.0\MethodsModifiers.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\bin\Debug\net6.0\MethodsModifiers.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\bin\Debug\net6.0\MethodsModifiers.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\refint\MethodsModifiers.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\MethodsModifiers.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\MethodsModifiers\MethodsModifiers\obj\Debug\net6.0\ref\MethodsModifiers.dll

@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\bin\Debug\net6.0\RefReturn.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\refint\RefReturn.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\RefReturn.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\RefReturn\RefReturn\obj\Debug\net6.0\ref\RefReturn.dll

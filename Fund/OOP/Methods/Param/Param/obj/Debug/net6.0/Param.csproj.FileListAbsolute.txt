@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\bin\Debug\net6.0\Param.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\bin\Debug\net6.0\Param.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\bin\Debug\net6.0\Param.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\bin\Debug\net6.0\Param.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\bin\Debug\net6.0\Param.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\refint\Param.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\Param.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Param\Param\obj\Debug\net6.0\ref\Param.dll

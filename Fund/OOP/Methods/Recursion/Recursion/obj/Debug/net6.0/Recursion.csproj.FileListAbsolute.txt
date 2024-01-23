@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\bin\Debug\net6.0\Recursion.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\bin\Debug\net6.0\Recursion.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\bin\Debug\net6.0\Recursion.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\bin\Debug\net6.0\Recursion.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\bin\Debug\net6.0\Recursion.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\refint\Recursion.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\Recursion.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Methods\Recursion\Recursion\obj\Debug\net6.0\ref\Recursion.dll

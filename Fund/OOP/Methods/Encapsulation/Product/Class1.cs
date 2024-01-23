@@ -68,11 +68,23 @@
     {
         return dateOfPurchase;
     }
-    /**     
-    public const string CategoryName = "Electronics";
-    public readonly string dateOfPurchase;
-     */
+    // TotalNoProducts;
+    public static void SetTotalNoProducts(int value)
+    {
+        TotalNoProducts = value;
+    }
+    public static int GetTotalNoProducts()
+    {
+        return TotalNoProducts;
+    }
 
+    // Calculate Total Quantity
+    public static int GetTotalQuantity(Product product1, Product product2, Product product3)
+    {
+        int total;
+        total = product1.GetQuantityInStock() + product2.GetQuantityInStock() + product3.GetQuantityInStock();
+        return total;
+    }
     #endregion
 
     #region Constructor      
@@ -83,7 +95,7 @@
     #endregion
 
     #region Methods
-    public void CalculateTax()
+    public void CalculateTax(double cost)
     {
         double taxAmount;
 
@@ -96,6 +108,21 @@
         {
             tax = 0.125;
             taxAmount = cost * tax;
+        }
+        tax = taxAmount;
+    }
+
+    public void CalculateTax(double cost, double percentage)
+    {
+        double taxAmount;
+
+        if (cost <= 500)
+        {
+            taxAmount = cost * (percentage / 100);
+        }
+        else
+        {
+            taxAmount = cost * (percentage / 100);
         }
         tax = taxAmount;
     }

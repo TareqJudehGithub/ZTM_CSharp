@@ -1,0 +1,15 @@
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.GeneratedMSBuildEditorConfig.editorconfig
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.AssemblyInfoInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.AssemblyInfo.cs
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.csproj.CoreCompileInputs.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.sourcelink.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\bin\Debug\net6.0\MedicalBot.exe
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\bin\Debug\net6.0\MedicalBot.deps.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\bin\Debug\net6.0\MedicalBot.runtimeconfig.json
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\bin\Debug\net6.0\MedicalBot.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\bin\Debug\net6.0\MedicalBot.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\refint\MedicalBot.dll
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.pdb
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\MedicalBot.genruntimeconfig.cache
+E:\web\ASP_NET\ZTM\Fund\OOP\Assignments\MedicalBot\MedicalBot\obj\Debug\net6.0\ref\MedicalBot.dll
